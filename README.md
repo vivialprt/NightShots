@@ -1,4 +1,4 @@
 # NightCall
 
 ## Discription
-This is MMO game for Android (IOS comming soon)
+This is a multiplayer game for Android (IOS comming soon)
